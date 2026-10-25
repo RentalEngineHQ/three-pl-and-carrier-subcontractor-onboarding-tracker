@@ -1,0 +1,14 @@
+{
+  "asset_class": "3PL & Carrier Subcontractor Onboarding Tracker Spreadsheet Excel Template",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "carrier_mc_dot_compliance_logs",
+    "independent_insurance_policy_audits",
+    "subcontractor_w9_clearance_matrices",
+    "broker_carrier_agreement_validation"
+  ]
+}
