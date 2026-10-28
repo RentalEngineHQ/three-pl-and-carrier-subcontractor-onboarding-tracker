@@ -1,4 +1,4 @@
-# 3PL & Carrier Subcontractor Onboarding Tracker Spreadsheet Excel Template (No Subscriptions)
+# 3PL Carrier & Subcontractor Onboarding Tracker Spreadsheet Excel Template (No Subscriptions)
 
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
